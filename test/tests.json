@@ -1,0 +1,10 @@
+{
+    "analysis": {
+        "input": "analysis-input.txt",
+        "mode": "qwh-disam"
+    },
+    "generation": {
+        "input": "generation-input.txt",
+        "mode": "qwh-gener"
+    }
+}

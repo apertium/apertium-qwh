@@ -1,0 +1,8 @@
+prefix=@prefix@
+exec_prefix=${prefix}
+srcdir=@datarootdir@/apertium/apertium-qwh
+
+Name: apertium-qwh
+Description: Finite-state morphological transducer and constraint grammar for Huaylas Ancash Quechua
+Version: @VERSION@
+
