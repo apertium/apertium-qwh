@@ -20,17 +20,48 @@
 # <pl>     # Plural
 # <sg>     # Singular
 
+# Inclusivity
+<inc> inclusive
+<exc> exclusive
 
-#Pronouns
-<px1sg> #1st person singular
-<px2sg> #2nd person singular
-<px3sg> #3rd person singular
-<px1pl><inc> #1st person singular inclusive
-<px1pl><exc> #1st person singular exclusive
-<px2pl>
-<px3pl>
+# Possession (nouns)
+<px1sg> #1st person singular possessed
+<px2sg> #2nd person singular possessed
+<px3sg> #3rd person singular possessed
+<px2pl> #2nd person plural possessed
+<px3pl> #3rd person plural possessed
+<px1pl> #1st person plural possessed
 
 # Case
+<nom> #nominative
+<acc> #accusative
+<gen>  #genitive
+<all> #allative
+<abl> #ablative
+<loc> #locative
+<ben> #benefactive
+<lim> #limitative
+<cau> #comparative
+<int> #interactive/proximal locative
+<ins> #instrumental/comitative
+
+# Transitions
+<o_sg2> #object 2nd person singular
+<o_sg1> #object 1st person singular
+
+# Pronouns
+<p1> #1st person
+<p2> #2nd person
+<p3> #3rd person
+
+# Verb Tenses
+<pres> #present tense
+<pret> #preterite
+<fut> #future
+
+# Transitivity
+<tv> transitive verb
+<iv> intransitive verb
 
 # Other symbols
 # >        # Morpheme boundary
