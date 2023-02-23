@@ -1,0 +1,3 @@
+^maki<n><pos><pl><com><ins>$
+^wayi<n><pos><pl><com><ins>$
+^warni<n><pos><pl><com><ins>$
