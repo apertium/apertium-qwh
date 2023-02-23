@@ -20,9 +20,15 @@
 # <pl>     # Plural
 # <sg>     # Singular
 
-#Possession
 
-#Pronouns (Verb)
+#Pronouns
+<px1sg> #1st person singular
+<px2sg> #2nd person singular
+<px3sg> #3rd person singular
+<px1pl><inc> #1st person singular inclusive
+<px1pl><exc> #1st person singular exclusive
+<px2pl>
+<px3pl>
 
 # Case
 
