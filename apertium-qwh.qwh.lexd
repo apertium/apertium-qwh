@@ -24,7 +24,7 @@
 <inc> inclusive
 <exc> exclusive
 
-# Possession (nouns)
+# Possession
 <px1sg> #1st person singular possessed
 <px2sg> #2nd person singular possessed
 <px3sg> #3rd person singular possessed
@@ -72,15 +72,14 @@
 
 PATTERNS
 ## Example inflection pattern:
-# NounRoot RegNounInfl
-Number
-Punctuation
+NounRoot RegNounInfl
+
 
 
 ## Example inflection lexicon:
-# LEXICON RegNounInfl
-# <n><sg>:
-# <n><pl>:>kuna
+LEXICON RegNounInfl
+<n><sg>:
+<n><pl>:kuna
 
 
 ###############################################################################
@@ -88,11 +87,11 @@ Punctuation
 ###############################################################################
 
 ## Example stem lexicon:
-# LEXICON NounRoot
-# house:house   # A noun
+LEXICON NounRoot
 maki:maki
-wayi:wayi
-warni:warni
+
+LEXICON NounStem
+maki
 
 
 PATTERN Number
