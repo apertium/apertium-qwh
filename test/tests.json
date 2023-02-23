@@ -1,10 +1,1 @@
-{
-    "analysis": {
-        "input": "analysis-input.txt",
-        "mode": "qwh-disam"
-    },
-    "generation": {
-        "input": "generation-input.txt",
-        "mode": "qwh-gener"
-    }
-}
+{"analysis": {"input": "analysis-input.txt", "mode": "qwh-disam"}, "generation": {"input": "generation-input.txt", "mode": "qwh-gener"}, "Plural Morph Test-morph": {"input": "Plural Morph Test/Plural Morph Test-morph-input.txt", "mode": "xyz-morph"}, "Plural Morph Test-gen": {"input": "Plural Morph Test/Plural Morph Test-gen-input.txt", "mode": "xyz-gener"}, "Possession Morph Test-morph": {"input": "Possession Morph Test/Possession Morph Test-morph-input.txt", "mode": "xyz-morph"}, "Possession Morph Test-gen": {"input": "Possession Morph Test/Possession Morph Test-gen-input.txt", "mode": "xyz-gener"}, "Morph Tests-morph": {"input": "Morph Tests/Morph Tests-morph-input.txt", "mode": "xyz-morph"}, "Morph Tests-gen": {"input": "Morph Tests/Morph Tests-gen-input.txt", "mode": "xyz-gener"}}

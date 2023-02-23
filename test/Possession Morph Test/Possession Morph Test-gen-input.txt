@@ -1,0 +1,12 @@
+^wayi<n><sg><px1sg>$
+^wayi<n><sg><px2sg>$
+^wayi<n><sg><px3sg>$
+^wayi<n><sg><px1pl>$
+^urku<n><sg><px1sg>$
+^urku<n><sg><px2sg>$
+^urku<n><sg><px3sg>$
+^urku<n><sg><px1pl>$
+^peqa<n><sg><px1sg>$
+^peqa<n><sg><px2sg>$
+^peqa<n><sg><px3sg>$
+^peqa<n><sg><px1pl>$

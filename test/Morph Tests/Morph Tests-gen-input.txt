@@ -1,0 +1,12 @@
+^yawar<n><sg><nom>$
+^yawar<n><sg><acc>$
+^yawar<n><sg><gen>$
+^yawar<n><sg><all>$
+^llumtsuy<n><sg><nom>$
+^llumtsuy<n><sg><acc>$
+^llumtsuy<n><sg><gen>$
+^llumtsuy<n><sg><all>$
+^raqaa<n><sg><nom>$
+^raqaa<n><sg><acc>$
+^raqaa<n><sg><gen>$
+^raqaa<n><sg><all>$
