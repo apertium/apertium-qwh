@@ -80,7 +80,7 @@ Punctuation
 ## Example inflection lexicon:
 # LEXICON RegNounInfl
 # <n><sg>:
-# <n><pl>:>s
+# <n><pl>:>kuna
 
 
 ###############################################################################
@@ -90,6 +90,9 @@ Punctuation
 ## Example stem lexicon:
 # LEXICON NounRoot
 # house:house   # A noun
+maki:maki
+wayi:wayi
+warni:warni
 
 
 PATTERN Number
