@@ -20,6 +20,12 @@
 # <pl>     # Plural
 # <sg>     # Singular
 
+#Possession
+
+#Pronouns (Verb)
+
+# Case
+
 # Other symbols
 # >        # Morpheme boundary
 
@@ -76,7 +82,7 @@ LEXICON Punctuation
 -<guio>:-
 —<guio>:—
 ,<cm>:,
-?<sent>:? 
+?<sent>:?
 '<apos>:'
 "<quot>:"
 «<lquot>:«
@@ -100,4 +106,3 @@ LEXICON Punctuation
 # https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstHome
 # https://github.com/hfst/
 # https://wiki.apertium.org/wiki/Hfst
-
