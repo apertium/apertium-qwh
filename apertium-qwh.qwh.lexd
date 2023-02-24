@@ -21,47 +21,50 @@
 # <sg>     # Singular
 
 # Inclusivity
-<inc> inclusive
-<exc> exclusive
+#<inc> inclusive
+#<exc> exclusive
 
 # Possession
-<px1sg> #1st person singular possessed
-<px2sg> #2nd person singular possessed
-<px3sg> #3rd person singular possessed
-<px2pl> #2nd person plural possessed
-<px3pl> #3rd person plural possessed
-<px1pl> #1st person plural possessed
+#<px1sg> #1st person singular possessed
+#<px2sg> #2nd person singular possessed
+#<px3sg> #3rd person singular possessed
+#<px2pl> #2nd person plural possessed
+#<px3pl> #3rd person plural possessed
+#<px1pl> #1st person plural possessed
 
 # Case
-<nom> #nominative
-<acc> #accusative
-<gen>  #genitive
-<all> #allative
-<abl> #ablative
-<loc> #locative
-<ben> #benefactive
-<lim> #limitative
-<cau> #comparative
-<int> #interactive/proximal locative
-<ins> #instrumental/comitative
+#<nom> #nominative
+#<acc> #accusative
+#<gen>  #genitive
+#<all> #allative
+#<abl> #ablative
+#<loc> #locative
+#<ben> #benefactive
+#<lim> #limitative
+#<cau> #comparative
+#<int> #interactive/proximal locative
+#<ins> #instrumental/comitative
 
 # Transitions
-<o_sg2> #object 2nd person singular
-<o_sg1> #object 1st person singular
+#<trans> #transition tag
+#<o_sg2> #object 2nd person singular
+#<o_sg1> #object 1st person singular
 
 # Pronouns
-<p1> #1st person
-<p2> #2nd person
-<p3> #3rd person
+#<p1> #1st person
+#<p2> #2nd person
+#<p3> #3rd person
+#<inc> #inclusive
+#<exc> #exclusive
 
 # Verb Tenses
-<pres> #present tense
-<pret> #preterite
-<fut> #future
+#<pres> #present tense
+#<pret> #preterite
+#<fut> #future
 
 # Transitivity
-<tv> transitive verb
-<iv> intransitive verb
+#<tv> transitive verb
+#<iv> intransitive verb
 
 # Other symbols
 # >        # Morpheme boundary
@@ -72,15 +75,41 @@
 
 PATTERNS
 ## Example inflection pattern:
-NounRoot RegNounInfl
 
 
 
-## Example inflection lexicon:
+NounRoot :NounPoss? RegNounInfl NounPoss:? NounCaseInfl?
+
+#VerbStem VerbInfl
+
+LEXICON NounCaseInfl
+<nom>:
+<acc>:ta
+<gen>:pa
+<all>:man
+<abl>:piq
+<loc>:chaw
+<ben>:paq
+<lim>:kama
+<cau>:raykur
+<comp>:naw
+<int>:pura
+<ins>:wan
+
+
 LEXICON RegNounInfl
 <n><sg>:
 <n><pl>:kuna
 
+LEXICON NounPoss
+<px1sg>:{V}nii
+<px2sg>:{n}{I}ki
+<px3sg>:{n}in
+<px1pl>:{n}{I}ntsik
+
+#LEXICON VerbInfl
+
+LEXICON VerbTrans
 
 ###############################################################################
 ###                          L E X I C O N                                  ###
@@ -89,10 +118,20 @@ LEXICON RegNounInfl
 ## Example stem lexicon:
 LEXICON NounRoot
 maki:maki
+maki:maki
+wayi:wayi
+warni:warni
+urku:urku
+peqa:peqa
+yawar:yawar
+llumtsuy:llumtsuy
+raqaa:raqaa
 
-LEXICON NounStem
-maki
 
+LEXICON VerbStem
+wiya:wiya
+punu:punu
+wanu:wanu
 
 PATTERN Number
 Numeral+ [<num>:]
@@ -110,6 +149,7 @@ LEXICON Numeral
 9
 
 
+#<o_sg1> #object 1st person singular
 LEXICON Punctuation
 
 .<sent>:.
