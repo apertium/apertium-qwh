@@ -47,8 +47,10 @@
 
 # Transitions
 #<trans> #transition tag
-#<o_sg2> #object 2nd person singular
-#<o_sg1> #object 1st person singular
+#<1obj2> #object 2nd person  (1stsubj)
+#<2obj1> #object 1st person  (2ndsubj)
+#<3obj1> #object 1st person  (3rdsubj)
+#<3obj2> #object 2nd person  (3rdsubj)
 
 # Pronouns
 #<p1> #1st person
@@ -80,17 +82,17 @@ PATTERNS
 
 NounRoot :NounPoss? RegNounInfl NounPoss:? NounCaseInfl?
 
-#VerbStem VerbInfl
+VerbStem VerbInflPer
 
 LEXICON NounCaseInfl
 <nom>:
 <acc>:ta
 <gen>:pa
 <all>:man
-<abl>:piq
+<abl>:peq
 <loc>:chaw
 <ben>:paq
-<lim>:kama
+<lim>:yaq
 <cau>:raykur
 <comp>:naw
 <int>:pura
@@ -107,9 +109,42 @@ LEXICON NounPoss
 <px3sg>:{n}in
 <px1pl>:{n}{I}ntsik
 
-#LEXICON VerbInfl
+LEXICON VerbInflPer
+<p1>:{V}
+<p2>:nki
+<p3>:n
+<p1><inc>:ntsik
+<p1><exc>:{V}
 
-LEXICON VerbTrans
+LEXICON VerbPlural
+<sg>:
+<pl>:ya{A}
+
+LEXICON VerbTenseReg
+<pres>:
+<pret>:rq{A}
+
+#LEXICON VerbTenseIrreg
+#<fut><p1>:shaq
+#<fut><p2>:nki
+#<fut><p3>:nqa
+#<fut><p1><inc>:shun
+#<fut><p1><exc>:shaq
+
+#LEXICON VerbTransReg
+#<1obj2>:q #only this goes after the person inflection
+#<2obj1>:ma{A}
+#<3obj1>:ma{a}
+#<3obj2>:shu
+
+#LEXICON VerbTransIrreg
+#<fut><p1>:shaq
+#<fut><p2>:nki
+#<fut><p3>:nqa
+#<fut><p1><inc>:shun
+#<fut><p1><exc>:shaq
+
+
 
 ###############################################################################
 ###                          L E X I C O N                                  ###
