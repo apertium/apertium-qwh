@@ -1,0 +1,30 @@
+[1STxHsY-gsvt#0] ^punumaashun/*punumaashun$
+[/1STxHsY-gsvt]
+[4gIKxTk2pqte#0] ^wanumaanqa/*wanumaanqa$
+[/4gIKxTk2pqte]
+[B3PXm3Rl7wyR#0] ^wiyashunki/*wiyashunki$
+[/B3PXm3Rl7wyR]
+[En1QQP8zeusT#0] ^wiyashqayki/*wiyashqayki$
+[/En1QQP8zeusT]
+[Hqq5UaG9Cad9#0] ^punushunki/*punushunki$
+[/Hqq5UaG9Cad9]
+[I_DBj7X7fvMT#0] ^punushqayki/*punushqayki$
+[/I_DBj7X7fvMT]
+[Imd7RtA-JuEy#0] ^wanushqayki/*wanushqayki$
+[/Imd7RtA-JuEy]
+[JhnOhGrQ4F3r#0] ^punumaanki/*punumaanki$
+[/JhnOhGrQ4F3r]
+[KbKC7zxRIgrT#0] ^punumaanqa/*punumaanqa$
+[/KbKC7zxRIgrT]
+[TDio5TTE-fkh#0] ^wiyamaanqa/*wiyamaanqa$
+[/TDio5TTE-fkh]
+[VLBmowkDzDGs#0] ^wiyamaashun/*wiyamaashun$
+[/VLBmowkDzDGs]
+[aVCHX8ngUWMd#0] ^wanushunki/*wanushunki$
+[/aVCHX8ngUWMd]
+[cVLU_o6rFXdY#0] ^wanumaashun/*wanumaashun$
+[/cVLU_o6rFXdY]
+[gkyY8YBee_LO#0] ^wanumaanki/*wanumaanki$
+[/gkyY8YBee_LO]
+[guW23RKEv0PQ#0] ^wiyamaanki/*wiyamaanki$
+[/guW23RKEv0PQ]
