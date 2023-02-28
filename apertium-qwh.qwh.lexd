@@ -161,12 +161,17 @@ peqa:peqa
 yawar:yawar
 llumtsuy:llumtsuy
 raqaa:raqaa
-
+patsa:patsa
 
 LEXICON VerbStem
 wiya:wiya
 punu:punu
 wanu:wanu
+kama:kama
+rika:rika
+chura:chura
+ka:ka
+
 
 PATTERN Number
 Numeral+ [<num>:]
