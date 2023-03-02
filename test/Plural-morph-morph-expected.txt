@@ -1,6 +1,6 @@
-[FSa1vnXekWea#0] ^wayikuna/wayi<n><pl>/wayi<n><pl><px1sg>/wayi<n><pl><px2sg>/wayi<n><pl><px3sg>/wayi<n><pl><px1pl>/wayi<n><pl><nom>/wayi<n><pl><px1sg><nom>/wayi<n><pl><px2sg><nom>/wayi<n><pl><px3sg><nom>/wayi<n><pl><px1pl><nom>$
+[FSa1vnXekWea#0] ^wayikuna/wayi<n><pl><nom>$
 [/FSa1vnXekWea]
-[p2BJaOYf_t-7#0] ^warnikuna/warni<n><pl>/warni<n><pl><px1sg>/warni<n><pl><px2sg>/warni<n><pl><px3sg>/warni<n><pl><px1pl>/warni<n><pl><nom>/warni<n><pl><px1sg><nom>/warni<n><pl><px2sg><nom>/warni<n><pl><px3sg><nom>/warni<n><pl><px1pl><nom>$
+[p2BJaOYf_t-7#0] ^warnikuna/warni<n><pl><nom>$
 [/p2BJaOYf_t-7]
-[syuBy4cSOqdF#0] ^makikuna/maki<n><pl>/maki<n><pl><px1sg>/maki<n><pl><px2sg>/maki<n><pl><px3sg>/maki<n><pl><px1pl>/maki<n><pl><nom>/maki<n><pl><px1sg><nom>/maki<n><pl><px2sg><nom>/maki<n><pl><px3sg><nom>/maki<n><pl><px1pl><nom>$
+[syuBy4cSOqdF#0] ^makikuna/maki<n><pl><nom>$
 [/syuBy4cSOqdF]

@@ -2,9 +2,9 @@ Alphabet
  A B C D E Ä F G H I J K L M N Ň O Ö P R S T U Ü W Y X Z
  a b c d e ä f g h i j k l m n ň o ö p r s t u ü w y x z
  %{A%}:a %>:0
-%{n%}:n %{n%}:0
+%{n%}:n %{n%}:0 %{n%}:y
 %{I%}:i %{I%}:y %{I%}:0
-%{V%}:u %{V%}:i %{V%}:o %{V%}:a
+%{V%}:u %{V%}:i %{V%}:o %{V%}:a %{V%}:0
 
 
 

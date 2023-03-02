@@ -1,24 +1,24 @@
-[063JavYZu8Jk#0] ^raqaapa/raqaa<n><sg><gen>/raqaa<n><sg><px1sg><gen>/raqaa<n><sg><px2sg><gen>/raqaa<n><sg><px3sg><gen>/raqaa<n><sg><px1pl><gen>$
+[063JavYZu8Jk#0] ^raqaapa/raqaa<n><sg><gen>$
 [/063JavYZu8Jk]
-[DGeK4dE4X3NF#0] ^llumtsuyman/llumtsuy<n><sg><all>/llumtsuy<n><sg><px1sg><all>/llumtsuy<n><sg><px2sg><all>/llumtsuy<n><sg><px3sg><all>/llumtsuy<n><sg><px1pl><all>$
+[DGeK4dE4X3NF#0] ^llumtsuyman/llumtsuy<n><sg><all>$
 [/DGeK4dE4X3NF]
-[TlN2yDwE1RVg#0] ^llumtsuyta/llumtsuy<n><sg><acc>/llumtsuy<n><sg><px1sg><acc>/llumtsuy<n><sg><px2sg><acc>/llumtsuy<n><sg><px3sg><acc>/llumtsuy<n><sg><px1pl><acc>$
+[TlN2yDwE1RVg#0] ^llumtsuyta/llumtsuy<n><sg><acc>$
 [/TlN2yDwE1RVg]
-[_NAu8H7BuUZt#0] ^raqaaman/raqaa<n><sg><all>/raqaa<n><sg><px1sg><all>/raqaa<n><sg><px2sg><all>/raqaa<n><sg><px3sg><all>/raqaa<n><sg><px1pl><all>$
+[_NAu8H7BuUZt#0] ^raqaaman/raqaa<n><sg><all>$
 [/_NAu8H7BuUZt]
-[cAB4kyxYzd1p#0] ^raqaata/raqaa<n><sg><acc>/raqaa<n><sg><px1sg><acc>/raqaa<n><sg><px2sg><acc>/raqaa<n><sg><px3sg><acc>/raqaa<n><sg><px1pl><acc>$
+[cAB4kyxYzd1p#0] ^raqaata/raqaa<n><sg><acc>$
 [/cAB4kyxYzd1p]
-[d6VTB3RLXhAS#0] ^yawar/yawar<n><sg>/yawar<n><sg><px1sg>/yawar<n><sg><px2sg>/yawar<n><sg><px3sg>/yawar<n><sg><px1pl>/yawar<n><sg><nom>/yawar<n><sg><px1sg><nom>/yawar<n><sg><px2sg><nom>/yawar<n><sg><px3sg><nom>/yawar<n><sg><px1pl><nom>$
+[d6VTB3RLXhAS#0] ^yawar/yawar<n><sg><nom>$
 [/d6VTB3RLXhAS]
-[hkG9ape_Tm0m#0] ^llumtsuy/llumtsuy<n><sg>/llumtsuy<n><sg><px1sg>/llumtsuy<n><sg><px2sg>/llumtsuy<n><sg><px3sg>/llumtsuy<n><sg><px1pl>/llumtsuy<n><sg><nom>/llumtsuy<n><sg><px1sg><nom>/llumtsuy<n><sg><px2sg><nom>/llumtsuy<n><sg><px3sg><nom>/llumtsuy<n><sg><px1pl><nom>$
+[hkG9ape_Tm0m#0] ^llumtsuy/llumtsuy<n><sg><nom>$
 [/hkG9ape_Tm0m]
-[ir4LIXOohGwS#0] ^llumtsuypa/llumtsuy<n><sg><gen>/llumtsuy<n><sg><px1sg><gen>/llumtsuy<n><sg><px2sg><gen>/llumtsuy<n><sg><px3sg><gen>/llumtsuy<n><sg><px1pl><gen>$
+[ir4LIXOohGwS#0] ^llumtsuypa/llumtsuy<n><sg><gen>$
 [/ir4LIXOohGwS]
-[k1qdRyNF1kkX#0] ^raqaa/raqaa<n><sg>/raqaa<n><sg><px1sg>/raqaa<n><sg><px2sg>/raqaa<n><sg><px3sg>/raqaa<n><sg><px1pl>/raqaa<n><sg><nom>/raqaa<n><sg><px1sg><nom>/raqaa<n><sg><px2sg><nom>/raqaa<n><sg><px3sg><nom>/raqaa<n><sg><px1pl><nom>$
+[k1qdRyNF1kkX#0] ^raqaa/raqaa<n><sg><nom>$
 [/k1qdRyNF1kkX]
-[kqBEQSVrP1aA#0] ^yawarman/yawar<n><sg><all>/yawar<n><sg><px1sg><all>/yawar<n><sg><px2sg><all>/yawar<n><sg><px3sg><all>/yawar<n><sg><px1pl><all>$
+[kqBEQSVrP1aA#0] ^yawarman/yawar<n><sg><all>$
 [/kqBEQSVrP1aA]
-[ulU-m7qls_8m#0] ^yawarpa/yawar<n><sg><gen>/yawar<n><sg><px1sg><gen>/yawar<n><sg><px2sg><gen>/yawar<n><sg><px3sg><gen>/yawar<n><sg><px1pl><gen>$
+[ulU-m7qls_8m#0] ^yawarpa/yawar<n><sg><gen>$
 [/ulU-m7qls_8m]
-[vcJPv6KqFxZ1#0] ^yawarta/yawar<n><sg><acc>/yawar<n><sg><px1sg><acc>/yawar<n><sg><px2sg><acc>/yawar<n><sg><px3sg><acc>/yawar<n><sg><px1pl><acc>$
+[vcJPv6KqFxZ1#0] ^yawarta/yawar<n><sg><acc>$
 [/vcJPv6KqFxZ1]
