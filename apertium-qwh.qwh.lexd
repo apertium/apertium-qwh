@@ -78,11 +78,11 @@
 PATTERNS
 ## Example inflection pattern:
 
+#:NounPoss? blahlbalahs NounPoss:?
 
+NounRoot NounPoss? RegNounInfl NounCaseInfl
 
-NounRoot :NounPoss? RegNounInfl NounPoss:? NounCaseInfl?
-
-VerbStem VerbInflPer
+VerbStem VerbTrans VerbPlural VerbTenseReg VerbTenseIrreg? VerbInflPer?
 
 LEXICON NounCaseInfl
 <nom>:
@@ -98,6 +98,8 @@ LEXICON NounCaseInfl
 <int>:pura
 <ins>:wan
 
+LEXICON VerbTrans
+<v>:
 
 LEXICON RegNounInfl
 <n><sg>:
@@ -111,10 +113,11 @@ LEXICON NounPoss
 
 LEXICON VerbInflPer
 <p1>:{V}
-<p2>:nki
+<p2>:{n}ki
 <p3>:n
 <p1><inc>:ntsik
 <p1><exc>:{V}
+
 
 LEXICON VerbPlural
 <sg>:
@@ -124,25 +127,25 @@ LEXICON VerbTenseReg
 <pres>:
 <pret>:rq{A}
 
-#LEXICON VerbTenseIrreg
-#<fut><p1>:shaq
-#<fut><p2>:nki
-#<fut><p3>:nqa
-#<fut><p1><inc>:shun
-#<fut><p1><exc>:shaq
+LEXICON VerbTenseIrreg
+<fut><p1>:shaq
+<fut><p2>:nki
+<fut><p3>:nqa
+<fut><p1><inc>:shun
+<fut><p1><exc>:shaq
 
-#LEXICON VerbTransReg
-#<1obj2>:q #only this goes after the person inflection
-#<2obj1>:ma{A}
-#<3obj1>:ma{a}
-#<3obj2>:shu
+LEXICON VerbTransReg
+<1obj2>:q #only this goes after the person inflection
+<2obj1>:ma{A}
+<3obj1>:ma{a}
+<3obj2>:shu
 
-#LEXICON VerbTransIrreg
-#<fut><p1>:shaq
-#<fut><p2>:nki
-#<fut><p3>:nqa
-#<fut><p1><inc>:shun
-#<fut><p1><exc>:shaq
+LEXICON VerbTransIrreg
+<fut><p1>:shaq
+<fut><p2>:nki
+<fut><p3>:nqa
+<fut><p1><inc>:shun
+<fut><p1><exc>:shaq
 
 
 
@@ -161,12 +164,17 @@ peqa:peqa
 yawar:yawar
 llumtsuy:llumtsuy
 raqaa:raqaa
-
+patsa:patsa
 
 LEXICON VerbStem
 wiya:wiya
 punu:punu
 wanu:wanu
+kama:kama
+rika:rika
+chura:chura
+ka:ka
+
 
 PATTERN Number
 Numeral+ [<num>:]

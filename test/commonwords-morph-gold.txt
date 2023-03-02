@@ -1,0 +1,21 @@
+34	 Teyta<unk>
+32	 Dios<unk>
+31	 y<unk>
+24	 kaq<unk>
+19	 kamarqan<v><pret><sg><p3>
+14	 nirqan<v><pret><sg><p3>
+14	 Tsëpitanam<unk>
+13	 karqan<v><pret><sg><p3>
+11	 alli<unk>
+9	 kë<unk>
+9	 Tsë<unk>
+9	 tukïläya<unk>
+8	 mana<unk>
+8	 llapanpis<unk>
+8	 wätana<unk>
+7	 patsata<n><sing><acc>
+7	 Tsëmi<unk>
+7	 rikarqan<v><pret><sg><p3>
+7	 churarqan<v><pret><sg><p3>
+7	 Tsëkunatam<unk>
+
