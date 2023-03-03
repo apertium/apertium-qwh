@@ -1,10 +1,10 @@
-[-vNZewVByIpJ#0] ^7/*7$	 ^rikarqan/rika<v><iv><sg><pret><p3>/rika<v><tv><sg><pret><p3>$
+[-vNZewVByIpJ#0] ^7/*7$	 ^rikarqan/*rikarqan$
 [/-vNZewVByIpJ]
 [0BM-KVva373s#0] ^24/*24$	 ^kaq/*kaq$
 [/0BM-KVva373s]
 [1Sm79bAW28Ar#0] ^7/*7$	 ^Tsëmi/*Tsëmi$
 [/1Sm79bAW28Ar]
-[2_nhjmpFMDga#0] ^7/*7$	 ^patsata/patsa<n><sg><acc>/patsa<px0><n><sg><acc>$
+[2_nhjmpFMDga#0] ^7/*7$	 ^patsata/*patsata$
 [/2_nhjmpFMDga]
 [6gWcvElMJZaY#0] ^9/*9$	 ^kë/*kë$
 [/6gWcvElMJZaY]
@@ -28,13 +28,13 @@
 [/QS5nhPwyEGbq]
 [eiBrPXDyO9QH#0] ^8/*8$	 ^wätana/*wätana$
 [/eiBrPXDyO9QH]
-[fhB1bXtLCDhm#0] ^13/*13$	 ^karqan/ka<v><iv><sg><pret><p3>/ka<v><tv><sg><pret><p3>$
+[fhB1bXtLCDhm#0] ^13/*13$	 ^karqan/*karqan$
 [/fhB1bXtLCDhm]
-[jnTiW4V2Yx2L#0] ^7/*7$	 ^churarqan/chura<v><iv><sg><pret><p3>/chura<v><tv><sg><pret><p3>$
+[jnTiW4V2Yx2L#0] ^7/*7$	 ^churarqan/*churarqan$
 [/jnTiW4V2Yx2L]
 [uTFW-3FBWMY2#0] ^14/*14$	 ^Tsëpitanam/*Tsëpitanam$
 [/uTFW-3FBWMY2]
 [yht1kq0sbnTO#0] ^9/*9$	 ^tukïläya/*tukïläya$
 [/yht1kq0sbnTO]
-[zfmjfOrxwfJp#0] ^19/*19$	 ^kamarqan/kama<v><iv><sg><pret><p3>/kama<v><tv><sg><pret><p3>$
+[zfmjfOrxwfJp#0] ^19/*19$	 ^kamarqan/*kamarqan$
 [/zfmjfOrxwfJp]

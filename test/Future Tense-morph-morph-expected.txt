@@ -1,40 +1,40 @@
 [-dCqx5JWF4_J#0] ^wiyayashun/*wiyayashun$
 [/-dCqx5JWF4_J]
-[CU5ngx8wHAl8#0] ^pununki/punu<v><iv><sg><fut><p2>/punu<v><iv><sg><p2>/punu<v><tv><sg><fut><p2>/punu<v><tv><sg><p2>/punu<v><iv><sg><pres><fut><p2>/punu<v><iv><sg><pres><p2>/punu<v><tv><sg><pres><fut><p2>/punu<v><tv><sg><pres><p2>/punu<v><iv><sg><fut><p2><p1>/punu<v><tv><sg><fut><p2><p1>/punu<v><iv><sg><pres><fut><p2><p1>/punu<v><tv><sg><pres><fut><p2><p1>/punu<v><iv><sg><fut><p2><p1><exc>/punu<v><tv><sg><fut><p2><p1><exc>/punu<v><iv><sg><pres><fut><p2><p1><exc>/punu<v><tv><sg><pres><fut><p2><p1><exc>$
+[CU5ngx8wHAl8#0] ^pununki/punu<pres><p2><sg>$
 [/CU5ngx8wHAl8]
 [DzimseqO9lm3#0] ^wiyashum/*wiyashum$
 [/DzimseqO9lm3]
-[HAgcXB1tpRUp#0] ^punushun/punu<v><iv><sg><fut><p1><inc>/punu<v><tv><sg><fut><p1><inc>/punu<v><iv><sg><pres><fut><p1><inc>/punu<v><tv><sg><pres><fut><p1><inc>/punu<v><iv><sg><fut><p1><inc><p1>/punu<v><tv><sg><fut><p1><inc><p1>/punu<v><iv><sg><pres><fut><p1><inc><p1>/punu<v><tv><sg><pres><fut><p1><inc><p1>/punu<v><iv><sg><fut><p1><inc><p1><exc>/punu<v><tv><sg><fut><p1><inc><p1><exc>/punu<v><iv><sg><pres><fut><p1><inc><p1><exc>/punu<v><tv><sg><pres><fut><p1><inc><p1><exc>$
+[HAgcXB1tpRUp#0] ^punushun/*punushun$
 [/HAgcXB1tpRUp]
-[ICuvygsp1Kyu#0] ^wanunki/wanu<v><iv><sg><fut><p2>/wanu<v><iv><sg><p2>/wanu<v><tv><sg><fut><p2>/wanu<v><tv><sg><p2>/wanu<v><iv><sg><pres><fut><p2>/wanu<v><iv><sg><pres><p2>/wanu<v><tv><sg><pres><fut><p2>/wanu<v><tv><sg><pres><p2>/wanu<v><iv><sg><fut><p2><p1>/wanu<v><tv><sg><fut><p2><p1>/wanu<v><iv><sg><pres><fut><p2><p1>/wanu<v><tv><sg><pres><fut><p2><p1>/wanu<v><iv><sg><fut><p2><p1><exc>/wanu<v><tv><sg><fut><p2><p1><exc>/wanu<v><iv><sg><pres><fut><p2><p1><exc>/wanu<v><tv><sg><pres><fut><p2><p1><exc>$
+[ICuvygsp1Kyu#0] ^wanunki/wanu<pres><p2><sg>$
 [/ICuvygsp1Kyu]
 [KGqV_QeGGQf4#0] ^punuyashaq/*punuyashaq$
 [/KGqV_QeGGQf4]
 [OG5p0pFhoXSY#0] ^punuyashun/*punuyashun$
 [/OG5p0pFhoXSY]
-[Wb9KYTCAK9Y4#0] ^wiyayanki/*wiyayanki$
+[Wb9KYTCAK9Y4#0] ^wiyayanki/wiya<pres><p2><pl>$
 [/Wb9KYTCAK9Y4]
-[Wq5tn6Vs9oOS#0] ^punuyanki/*punuyanki$
+[Wq5tn6Vs9oOS#0] ^punuyanki/punu<pres><p2><pl>$
 [/Wq5tn6Vs9oOS]
-[YSL25ygjDidc#0] ^punushaq/punu<v><iv><sg><pres><fut><p1><p1>/punu<v><tv><sg><pres><fut><p1><exc><p1><exc>/punu<v><tv><sg><pres><fut><p1><p1><exc>/punu<v><iv><sg><pres><fut><p1><exc><p1><exc>/punu<v><iv><sg><pres><fut><p1><p1><exc>/punu<v><tv><sg><fut><p1><exc><p1><exc>/punu<v><tv><sg><fut><p1><p1><exc>/punu<v><iv><sg><fut><p1><exc><p1><exc>/punu<v><iv><sg><fut><p1><p1><exc>/punu<v><tv><sg><pres><fut><p1><exc><p1>/punu<v><tv><sg><pres><fut><p1><p1>/punu<v><iv><sg><pres><fut><p1><exc><p1>/punu<v><iv><sg><fut><p1>/punu<v><tv><sg><fut><p1><exc><p1>/punu<v><tv><sg><fut><p1><p1>/punu<v><iv><sg><fut><p1><exc><p1>/punu<v><iv><sg><fut><p1><p1>/punu<v><tv><sg><pres><fut><p1><exc>/punu<v><tv><sg><pres><fut><p1>/punu<v><iv><sg><pres><fut><p1><exc>/punu<v><iv><sg><pres><fut><p1>/punu<v><tv><sg><fut><p1><exc>/punu<v><tv><sg><fut><p1>/punu<v><iv><sg><fut><p1><exc>$
+[YSL25ygjDidc#0] ^punushaq/*punushaq$
 [/YSL25ygjDidc]
 [bS0BvtELiNGe#0] ^wanuyashun/*wanuyashun$
 [/bS0BvtELiNGe]
-[c6N1joGMTD2k#0] ^pununqa/punu<v><iv><sg><fut><p3>/punu<v><tv><sg><fut><p3>/punu<v><iv><sg><pres><fut><p3>/punu<v><tv><sg><pres><fut><p3>/punu<v><iv><sg><fut><p3><p1>/punu<v><tv><sg><fut><p3><p1>/punu<v><iv><sg><pres><fut><p3><p1>/punu<v><tv><sg><pres><fut><p3><p1>/punu<v><iv><sg><fut><p3><p1><exc>/punu<v><tv><sg><fut><p3><p1><exc>/punu<v><iv><sg><pres><fut><p3><p1><exc>/punu<v><tv><sg><pres><fut><p3><p1><exc>$
+[c6N1joGMTD2k#0] ^pununqa/*pununqa$
 [/c6N1joGMTD2k]
-[e4UHtRv5k-8q#0] ^wiyashaq/wiya<v><iv><sg><pres><fut><p1><p1>/wiya<v><tv><sg><pres><fut><p1><exc><p1><exc>/wiya<v><tv><sg><pres><fut><p1><p1><exc>/wiya<v><iv><sg><pres><fut><p1><exc><p1><exc>/wiya<v><iv><sg><pres><fut><p1><p1><exc>/wiya<v><tv><sg><fut><p1><exc><p1><exc>/wiya<v><tv><sg><fut><p1><p1><exc>/wiya<v><iv><sg><fut><p1><exc><p1><exc>/wiya<v><iv><sg><fut><p1><p1><exc>/wiya<v><tv><sg><pres><fut><p1><exc><p1>/wiya<v><tv><sg><pres><fut><p1><p1>/wiya<v><iv><sg><pres><fut><p1><exc><p1>/wiya<v><iv><sg><fut><p1>/wiya<v><tv><sg><fut><p1><exc><p1>/wiya<v><tv><sg><fut><p1><p1>/wiya<v><iv><sg><fut><p1><exc><p1>/wiya<v><iv><sg><fut><p1><p1>/wiya<v><tv><sg><pres><fut><p1><exc>/wiya<v><tv><sg><pres><fut><p1>/wiya<v><iv><sg><pres><fut><p1><exc>/wiya<v><iv><sg><pres><fut><p1>/wiya<v><tv><sg><fut><p1><exc>/wiya<v><tv><sg><fut><p1>/wiya<v><iv><sg><fut><p1><exc>$
+[e4UHtRv5k-8q#0] ^wiyashaq/*wiyashaq$
 [/e4UHtRv5k-8q]
-[mSbUCJ9I24bh#0] ^wiyanki/wiya<v><iv><sg><fut><p2>/wiya<v><iv><sg><p2>/wiya<v><tv><sg><fut><p2>/wiya<v><tv><sg><p2>/wiya<v><iv><sg><pres><fut><p2>/wiya<v><iv><sg><pres><p2>/wiya<v><tv><sg><pres><fut><p2>/wiya<v><tv><sg><pres><p2>/wiya<v><iv><sg><fut><p2><p1>/wiya<v><tv><sg><fut><p2><p1>/wiya<v><iv><sg><pres><fut><p2><p1>/wiya<v><tv><sg><pres><fut><p2><p1>/wiya<v><iv><sg><fut><p2><p1><exc>/wiya<v><tv><sg><fut><p2><p1><exc>/wiya<v><iv><sg><pres><fut><p2><p1><exc>/wiya<v><tv><sg><pres><fut><p2><p1><exc>$
+[mSbUCJ9I24bh#0] ^wiyanki/wiya<pres><p2><sg>$
 [/mSbUCJ9I24bh]
 [pcK-STMk7HHP#0] ^wanuyashaq/*wanuyashaq$
 [/pcK-STMk7HHP]
-[qz08Rvd-gtBh#0] ^wanunqa/wanu<v><iv><sg><fut><p3>/wanu<v><tv><sg><fut><p3>/wanu<v><iv><sg><pres><fut><p3>/wanu<v><tv><sg><pres><fut><p3>/wanu<v><iv><sg><fut><p3><p1>/wanu<v><tv><sg><fut><p3><p1>/wanu<v><iv><sg><pres><fut><p3><p1>/wanu<v><tv><sg><pres><fut><p3><p1>/wanu<v><iv><sg><fut><p3><p1><exc>/wanu<v><tv><sg><fut><p3><p1><exc>/wanu<v><iv><sg><pres><fut><p3><p1><exc>/wanu<v><tv><sg><pres><fut><p3><p1><exc>$
+[qz08Rvd-gtBh#0] ^wanunqa/*wanunqa$
 [/qz08Rvd-gtBh]
-[rGiU0cyjwIu5#0] ^wanuyanki/*wanuyanki$
+[rGiU0cyjwIu5#0] ^wanuyanki/wanu<pres><p2><pl>$
 [/rGiU0cyjwIu5]
 [t3wift-sjuBJ#0] ^wiyayashaq/*wiyayashaq$
 [/t3wift-sjuBJ]
-[vGr0FHNPAfgA#0] ^wanushaq/wanu<v><iv><sg><pres><fut><p1><p1>/wanu<v><tv><sg><pres><fut><p1><exc><p1><exc>/wanu<v><tv><sg><pres><fut><p1><p1><exc>/wanu<v><iv><sg><pres><fut><p1><exc><p1><exc>/wanu<v><iv><sg><pres><fut><p1><p1><exc>/wanu<v><tv><sg><fut><p1><exc><p1><exc>/wanu<v><tv><sg><fut><p1><p1><exc>/wanu<v><iv><sg><fut><p1><exc><p1><exc>/wanu<v><iv><sg><fut><p1><p1><exc>/wanu<v><tv><sg><pres><fut><p1><exc><p1>/wanu<v><tv><sg><pres><fut><p1><p1>/wanu<v><iv><sg><pres><fut><p1><exc><p1>/wanu<v><iv><sg><fut><p1>/wanu<v><tv><sg><fut><p1><exc><p1>/wanu<v><tv><sg><fut><p1><p1>/wanu<v><iv><sg><fut><p1><exc><p1>/wanu<v><iv><sg><fut><p1><p1>/wanu<v><tv><sg><pres><fut><p1><exc>/wanu<v><tv><sg><pres><fut><p1>/wanu<v><iv><sg><pres><fut><p1><exc>/wanu<v><iv><sg><pres><fut><p1>/wanu<v><tv><sg><fut><p1><exc>/wanu<v><tv><sg><fut><p1>/wanu<v><iv><sg><fut><p1><exc>$
+[vGr0FHNPAfgA#0] ^wanushaq/*wanushaq$
 [/vGr0FHNPAfgA]
-[zGbkX94ywzWN#0] ^wanushun/wanu<v><iv><sg><fut><p1><inc>/wanu<v><tv><sg><fut><p1><inc>/wanu<v><iv><sg><pres><fut><p1><inc>/wanu<v><tv><sg><pres><fut><p1><inc>/wanu<v><iv><sg><fut><p1><inc><p1>/wanu<v><tv><sg><fut><p1><inc><p1>/wanu<v><iv><sg><pres><fut><p1><inc><p1>/wanu<v><tv><sg><pres><fut><p1><inc><p1>/wanu<v><iv><sg><fut><p1><inc><p1><exc>/wanu<v><tv><sg><fut><p1><inc><p1><exc>/wanu<v><iv><sg><pres><fut><p1><inc><p1><exc>/wanu<v><tv><sg><pres><fut><p1><inc><p1><exc>$
+[zGbkX94ywzWN#0] ^wanushun/*wanushun$
 [/zGbkX94ywzWN]

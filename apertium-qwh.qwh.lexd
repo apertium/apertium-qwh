@@ -80,9 +80,9 @@ PATTERNS
 
 #:NounPoss? blahlbalahs NounPoss:?
 
-NounRoot NounPoss? RegNounInfl NounCaseInfl
+NounRoot NounDenote: NounPlural: NounPoss? :NounPlural NounCaseInfl
 
-VerbStem VerbTrans VerbPlural VerbTenseReg VerbTenseIrreg? VerbInflPer?
+VerbStem VerbPlural VerbTenseReg? VerbTenseIrreg? VerbInflPer?
 
 LEXICON NounCaseInfl
 <nom>:
@@ -98,15 +98,15 @@ LEXICON NounCaseInfl
 <int>:pura
 <ins>:wan
 
-LEXICON VerbTrans
-<v>:
+LEXICON NounDenote
+<n>:
 
-LEXICON RegNounInfl
-<n><sg>:
-<n><pl>:kuna
+LEXICON NounPlural
+<sg>:
+<pl>:kuna
 
 LEXICON NounPoss
-<px1sg>:{V}nii
+<px1sg>:{V}niiwiya
 <px2sg>:{n}{I}ki
 <px3sg>:{n}in
 <px1pl>:{n}{I}ntsik
@@ -120,8 +120,8 @@ LEXICON VerbInflPer
 
 
 LEXICON VerbPlural
-<sg>:
-<pl>:ya{A}
+<v><sg>:
+<v><pl>:ya{A}
 
 LEXICON VerbTenseReg
 <pres>:
@@ -140,12 +140,7 @@ LEXICON VerbTransReg
 <3obj1>:ma{a}
 <3obj2>:shu
 
-LEXICON VerbTransIrreg
-<fut><p1>:shaq
-<fut><p2>:nki
-<fut><p3>:nqa
-<fut><p1><inc>:shun
-<fut><p1><exc>:shaq
+
 
 
 

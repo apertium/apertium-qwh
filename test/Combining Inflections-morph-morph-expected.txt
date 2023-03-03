@@ -1,6 +1,6 @@
-[E4KXa5wIFW6D#0] ^makikikunawan/maki<px2sg><n><pl><ins>$
+[E4KXa5wIFW6D#0] ^makikikunawan/maki<n><pl><ins>/maki<n><pl><px2sg><ins>$
 [/E4KXa5wIFW6D]
-[K6RzewX3Qv8G#0] ^warnikikunawan/warni<px2sg><n><pl><ins>$
+[K6RzewX3Qv8G#0] ^warnikikunawan/warni<n><pl><ins>/warni<n><pl><px2sg><ins>$
 [/K6RzewX3Qv8G]
-[uU3roDnp6VsU#0] ^wayikikunawan/wayi<px2sg><n><pl><ins>$
+[uU3roDnp6VsU#0] ^wayikikunawan/wayi<n><pl><ins>/wayi<n><pl><px2sg><ins>$
 [/uU3roDnp6VsU]
