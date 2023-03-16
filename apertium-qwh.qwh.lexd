@@ -82,7 +82,12 @@ PATTERNS
 
 NounRoot NounDenote: NounPlural: NounPoss? :NounPlural NounCaseInfl
 
-VerbStem VerbPlural VerbTenseReg? VerbTenseIrreg? VerbInflPer?
+VerbStem VerbDenote: VerbPlural VerbTenseReg VerbInflPer
+
+VerbStem VerbDenote: VerbPlural VerbTenseReg :VerbTransReg VerbInflPer VerbTransReg:
+
+VerbStem VerbDenote: VerbPlural VerbTenseFut VerbTenseFutInfl
+
 
 LEXICON NounCaseInfl
 <nom>:
@@ -120,28 +125,31 @@ LEXICON VerbInflPer
 
 
 LEXICON VerbPlural
-<v><sg>:
-<v><pl>:ya{A}
+<sg>:
+<pl>:ya{A}
 
 LEXICON VerbTenseReg
 <pres>:
 <pret>:rq{A}
 
-LEXICON VerbTenseIrreg
-<fut><p1>:shaq
-<fut><p2>:nki
-<fut><p3>:nqa
-<fut><p1><inc>:shun
-<fut><p1><exc>:shaq
+LEXICON VerbTenseFut
+<fut>:
+
+LEXICON VerbTenseFutInfl
+<p1>:shaq
+<p2>:nki
+<p3>:nqa
+<p1><inc>:shun
+<p1><exc>:shaq
 
 LEXICON VerbTransReg
 <1obj2>:q #only this goes after the person inflection
-<2obj1>:ma{A}
-<3obj1>:ma{a}
+<2obj1>:maa
+<3obj1>:maa
 <3obj2>:shu
 
-
-
+LEXICON VerbDenote
+<v>:
 
 
 ###############################################################################
