@@ -177,6 +177,12 @@ yawar:yawar
 llumtsuy:llumtsuy
 raqaa:raqaa
 patsa:patsa
+ciëlu:ciëlu
+kanan:kanan
+junaq:junaq
+tutapë:tutapë
+qora:qora
+qewa:qewa
 
 LEXICON VerbStem
 wiya:wiya
@@ -191,7 +197,7 @@ ushari:ushari
 ni:ni
 jeqamu:jeqamu
 kuyukïka:kuyukïka
-
+queda:queda
 
 PATTERN Number
 Numeral+ [<num>:]
