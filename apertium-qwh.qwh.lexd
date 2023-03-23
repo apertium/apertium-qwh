@@ -115,9 +115,9 @@ LEXICON NounPlural
 
 LEXICON NounPoss
 <px1sg>:{n}{V}{V}
-<px2sg>:{n}{I}ki
-<px3sg>:{n}in
-<px1pl>:{n}{I}ntsik
+<px2sg>:{ni}ki
+<px3sg>:{ni}n
+<px1pl>:{ni}ntsik
 
 LEXICON VerbDenote
 <v>:
@@ -168,7 +168,7 @@ LEXICON VerbTransFut
 ## Example stem lexicon:
 LEXICON NounRoot
 maki:maki
-maki:maki
+
 wayi:wayi
 warni:warni
 urku:urku
@@ -202,6 +202,7 @@ LEXICON Numeral
 7
 8
 9
+
 
 
 #<o_sg1> #object 1st person singular
