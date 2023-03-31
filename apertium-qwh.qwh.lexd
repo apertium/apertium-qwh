@@ -161,6 +161,7 @@ LEXICON VerbTransFut
 <3obj1>:maa
 <3obj2>:shu
 
+
 ###############################################################################
 ###                          L E X I C O N                                  ###
 ###############################################################################
@@ -168,7 +169,6 @@ LEXICON VerbTransFut
 ## Example stem lexicon:
 LEXICON NounRoot
 maki:maki
-
 wayi:wayi
 warni:warni
 urku:urku
@@ -183,6 +183,33 @@ junaq:junaq
 tutapë:tutapë
 qora:qora
 qewa:qewa
+cuentu:cuentu
+tiempush:tiempush
+wandï:wandï
+wascar:wascar
+rey:rey
+guerra:guerra
+ollqu:ollqu
+warmi:warmi
+marka:marka
+yaku:yaku
+
+LEXICON Adverbs
+alleqa:alleqa
+alläpa:alläpa
+upalla:upalla
+huklla:huklla
+wayralla:wayralla
+winaylla:winaylla
+alleq:alleq
+tsaypan:tsaypan
+qoyati:qoyati
+waraanin:waraanin
+tutay:tutay
+qoya-qoya:qoya-qoya
+quesqa-quesqa:quesqa-quesqa
+shaypa:shaypa
+toopuypa:toopuypa
 
 LEXICON VerbStem
 wiya:wiya
@@ -198,6 +225,17 @@ ni:ni
 jeqamu:jeqamu
 kuyukïka:kuyukïka
 queda:queda
+kay:kay
+miku:miku
+kuya:kuya
+tsari:tsari
+toqa:toqa
+qollqa:qollqa
+pampa:pampa
+muka:muka
+millqa:millqa
+kaya:kaya
+
 
 PATTERN Number
 Numeral+ [<num>:]

@@ -2,8 +2,17 @@
 	! Unify apostrophe styles
 	[ ?* [ ' (->) [ %` | ʻ | ’ | ‘ | ʼ ] ] ?* ]
 
-    ! composition operator, must appear between rules
-    ! .o.
-	! Example rule: Accept input without diacritics
-	! [ ?* [ á (->) a ] ?* ]
+	! Accept diacritics as double vowels
+	[ ?* [ ä (->) [ a a ] ] ?* ] .o.
+	[ ?* [ ë (->) [ e e ] ] ?* ] .o.
+	[ ?* [ ï (->) [ i i ] ] ?* ] .o.
+	[ ?* [ ö (->) [ o o ]	] ?* ] .o.
+	[ ?* [ ü (->) [ u u ] ] ?* ] .o.
+	[ ?* [ Ä (->) [ A A ] ] ?* ] .o.
+	[ ?* [ Ë (->) [ E E ] ] ?* ] .o.
+	[ ?* [ Ï (->) [ I I ] ] ?* ] .o.
+	[ ?* [ Ö (->) [ O O ] ] ?* ] .o.
+	[ ?* [ Ü (->) [ U U ]	] ?* ] .o.
+	! Accept c instead of k
+	[ ?* [ k (->) c	 ] ?* ] .o.
 ]
