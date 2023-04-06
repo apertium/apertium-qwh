@@ -1,6 +1,6 @@
 [
 	! Unify apostrophe styles
-	[ ?* [ ' (->) [ %` | ʻ | ’ | ‘ | ʼ ] ] ?* ]
+	[ ?* [ ' (->) [ %` | ʻ | ’ | ‘ | ʼ ] ] ?* ] .o.
 
 	! Accept diacritics as double vowels
 	[ ?* [ ä (->) [ a a ] ] ?* ] .o.
@@ -14,5 +14,5 @@
 	[ ?* [ Ö (->) [ O O ] ] ?* ] .o.
 	[ ?* [ Ü (->) [ U U ]	] ?* ] .o.
 	! Accept c instead of k
-	[ ?* [ k (->) c	 ] ?* ] .o.
+	[ ?* [ k (->) c	 ] ?* ] 
 ]
