@@ -193,6 +193,18 @@ ollqu:ollqu
 warmi:warmi
 marka:marka
 yaku:yaku
+quilla:quilla
+weqi:weqi
+qocha:qocha
+yacu:yacu
+dios:dios
+soldadu:soldadu
+weeta:weeta
+nuna:nuna
+awkis:awkis
+puka:puka
+wapul:wapul
+yaku:yaku
 
 LEXICON Adverbs
 alleqa:alleqa
@@ -210,6 +222,9 @@ qoya-qoya:qoya-qoya
 quesqa-quesqa:quesqa-quesqa
 shaypa:shaypa
 toopuypa:toopuypa
+
+LEXICON Adjective
+lindu:lindu
 
 LEXICON VerbStem
 wiya:wiya
@@ -235,7 +250,12 @@ pampa:pampa
 muka:muka
 millqa:millqa
 kaya:kaya
-
+yarquy:yarquy
+warqay:wayqay
+puriy:puriy
+ashiy:ashiy
+musyay:musyay
+ruray:ruray
 
 PATTERN Number
 Numeral+ [<num>:]
