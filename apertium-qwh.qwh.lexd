@@ -92,12 +92,19 @@ VerbStem VerbDenote: VerbPlural VerbTenseFut VerbInflFut
 
 VerbStem VerbDenote: VerbPlural VerbTenseFut :VerbTransFut VerbInflFut VerbTransFut:
 
+Adverbs [<adv>:]
+
+Conjunctions [<conj>:]
+
+[tsë<prn><dem>:tsë] NounCaseInfl
+
 LEXICON NounCaseInfl
 <nom>:
 <acc>:ta
 <gen>:pa
 <all>:man
-<abl>:peq
+<abl>:peq  # Dir/LR 
+<abl>:pita
 <loc>:chaw
 <ben>:paq
 <lim>:yaq
@@ -124,11 +131,11 @@ LEXICON VerbDenote
 
 LEXICON VerbPlural
 <sg>:
-<pl>:ya{A}
+<pl>:ya
 
 LEXICON VerbTenseReg
 <pres>:
-<pret>:rq{A}
+<pret>:rqa
 
 LEXICON VerbInflPer
 <p1>:{V}
@@ -222,6 +229,9 @@ qoya-qoya:qoya-qoya
 quesqa-quesqa:quesqa-quesqa
 shaypa:shaypa
 toopuypa:toopuypa
+frenti:frenti
+tsë:tsë
+
 
 LEXICON Adjective
 lindu:lindu
@@ -250,12 +260,17 @@ pampa:pampa
 muka:muka
 millqa:millqa
 kaya:kaya
-yarquy:yarquy
-warqay:wayqay
-puriy:puriy
-ashiy:ashiy
-musyay:musyay
-ruray:ruray
+yarqu:yarqu
+warqa:wayqa
+puri:puri
+ashi:ashi
+musya:musya
+rura:rura
+
+LEXICON Conjunctions
+y:y
+peru:peru
+o:o
 
 PATTERN Number
 Numeral+ [<num>:]
