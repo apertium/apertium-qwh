@@ -103,7 +103,7 @@ LEXICON NounCaseInfl
 <acc>:ta
 <gen>:pa
 <all>:man
-<abl>:peq  # Dir/LR 
+<abl>:peq  # Dir/LR
 <abl>:pita
 <loc>:chaw
 <ben>:paq
@@ -122,9 +122,9 @@ LEXICON NounPlural
 
 LEXICON NounPoss
 <px1sg>:{n}{V}{V}
-<px2sg>:{ni}ki
-<px3sg>:{ni}n
-<px1pl>:{ni}ntsik
+<px2sg>:niki
+<px3sg>:nin
+<px1pl>:nintsik
 
 LEXICON VerbDenote
 <v>:
