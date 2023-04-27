@@ -3,6 +3,7 @@ Alphabet
  a b c d e ä f g h i j k l m n ň o ö p r s t u ü w y x z
 %{A%}:a %>:0
 %{n%}:n %{n%}:0
+%{N%}:b %{N%}:V
 %{I%}:i %{I%}:y %{I%}:0
 %{V%}:u %{V%}:i %{V%}:o %{V%}:a %{V%}:0
 %{ni%}:ni %{ni%}:0 %{ni%}:y
@@ -22,8 +23,15 @@ Consonant =   B C D F G H J K L M N Ň P R S T W Y X Z
 
 Rules
 
-! "Remove suffix vowel with vowel-ending stem"
-! i:0 <=> Vow %{VSUF%}:0 _ [ m | n ] ;
+! "Remove i with vowel-ending stem"
+! i:0 <=> Vowel %>: {n}: _ ;
+
+! properly format : {i}:0 <=> :Vow%>: {N}: ({i}) _ ;
+
+! call something i2
+
+
+
 
 "Delete {ni} after vowel"
 %{ni%}:0 <=> :Vowel _ ;
@@ -35,6 +43,8 @@ Rules
         where Vx in (a u)
               Vy in (y y)
         matched ;
+
+
 
 "Lengthen [A] before consonant"
 %{A%}:a <=> _ :Consonant ;

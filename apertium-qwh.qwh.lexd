@@ -82,7 +82,9 @@ PATTERNS
 
 NounRoot NounDenote: NounPoss? NounPlural NounCaseInfl
 
-VerbStem VerbDenote: VerbPlural VerbTenseReg VerbInflPer
+NounRoot NounDenote: NounPoss? NounPlural NounCaseInfl NounRef?
+
+VerbStem VerbDenote: VerbPlural VerbTenseReg VerbInflPer VerbAspectEvidential? VerbModeMarker?
 
 VerbStem VerbDenote: VerbPlural VerbTenseReg :VerbTransReg VerbInflPer VerbTransReg:
 
@@ -92,11 +94,13 @@ VerbStem VerbDenote: VerbPlural VerbTenseFut VerbInflFut
 
 VerbStem VerbDenote: VerbPlural VerbTenseFut :VerbTransFut VerbInflFut VerbTransFut:
 
+VerbStem VerbDenote: VerbPlural VerbTenseReg :VerbMoodPerf VerbInflPer VerbMoodPerf:
+
 Adverbs [<adv>:]
 
 Conjunctions [<conj>:]
 
-[tsë<prn><dem>:tsë] NounCaseInfl
+[tsee<prn><dem>:tsee] NounCaseInfl
 
 LEXICON NounCaseInfl
 <nom>:
@@ -122,7 +126,7 @@ LEXICON NounPlural
 
 LEXICON NounPoss
 <px1sg>:{n}{V}{V}
-<px2sg>:niki
+<px2sg>:niki yki ki
 <px3sg>:nin
 <px1pl>:nintsik
 
@@ -158,16 +162,29 @@ LEXICON VerbTransIrreg
 <1obj2>:q
 
 LEXICON VerbTransReg
-<2obj1>:maa
-<3obj1>:maa
-<3obj2>:shu
+<s2><o1>:maa
+<s3><o1>:maa
+<s3><o2>:shu
 
 LEXICON VerbTransFut
-<1ob2>:shqa
-<2obj1>:maa
-<3obj1>:maa
-<3obj2>:shu
+# fix with apertium tags & check gold
+<s1><o2>:shqa
+<s2><o1>:maa
+<s3><o1>:maa
+<s3><o2>:shu
 
+LEXICON VerbMoodPerf
+<prc_perf>:shqa
+
+LEXICON NounRef
+<nounref>:sh
+
+LEXICON VerbAspectEvidential
+<quot_evid>:shI
+<indirect_evid>:naq
+
+LEXICON VerbModeMarker
+<indirect_evid>:naq
 
 ###############################################################################
 ###                          L E X I C O N                                  ###
@@ -184,15 +201,15 @@ yawar:yawar
 llumtsuy:llumtsuy
 raqaa:raqaa
 patsa:patsa
-ciëlu:ciëlu
+cieelu:cieelu
 kanan:kanan
 junaq:junaq
-tutapë:tutapë
+tutapee:tutapee
 qora:qora
 qewa:qewa
 cuentu:cuentu
 tiempush:tiempush
-wandï:wandï
+wandii:wandii
 wascar:wascar
 rey:rey
 guerra:guerra
@@ -212,10 +229,11 @@ awkis:awkis
 puka:puka
 wapul:wapul
 yaku:yaku
+ka:ka
 
 LEXICON Adverbs
 alleqa:alleqa
-alläpa:alläpa
+allaapa:allaapa
 upalla:upalla
 huklla:huklla
 wayralla:wayralla
@@ -230,7 +248,7 @@ quesqa-quesqa:quesqa-quesqa
 shaypa:shaypa
 toopuypa:toopuypa
 frenti:frenti
-tsë:tsë
+tsee:tsee
 
 
 LEXICON Adjective
@@ -248,7 +266,7 @@ wayu:wayu
 ushari:ushari
 ni:ni
 jeqamu:jeqamu
-kuyukïka:kuyukïka
+kuyukiika:kuyukiika
 queda:queda
 kay:kay
 miku:miku
