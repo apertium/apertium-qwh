@@ -3,7 +3,7 @@ Alphabet
  a b c d e ä f g h i j k l m n ň o ö p r s t u ü w y x z
 %{A%}:a %>:0
 %{n%}:n %{n%}:0
-%{N%}:n %{N%}:0 %{N%}:i %{N%}:y
+%{N%}:n %{N%}:0 %{N%}:i %{N%}:y 
 %{I%}:i %{I%}:y %{I%}:0
 %{V%}:u %{V%}:i %{V%}:o %{V%}:a %{V%}:0
 %{i%}:i %{i%}:0
@@ -33,11 +33,10 @@ Rules
 
 
 
-"Delete {ni} after vowel"
-%{ni%}:0 <=> :Vowel _ ;
 
 
-"jwash input 1"
+
+"first person possessed form"
 %{N%}:Vy <=> :Vx %>: _ ;
             where
               Vx in Vowel

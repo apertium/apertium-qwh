@@ -102,6 +102,20 @@ Conjunctions [<conj>:]
 
 [tsee<prn><dem>:tsee] NounCaseInfl
 
+[nuqa<prn><p1><sg>:nuqa] NounCaseInfl
+
+[qam<prn><p2><sg>:qam] NounCaseInfl
+
+[pay<prn><p3><sg>:pay] NounCaseInfl
+
+[noqantsik<prn><p1><pl><inc>:noqantsik] NounCaseInfl
+
+[noqakuna<prn><p1><pl><exc>:noqakuna] NounCaseInfl
+
+[qamkuna<prn><p2><pl>:qamkuna] NounCaseInfl
+
+[paykuna<prn><p3><pl>:paykuna] NounCaseInfl
+
 LEXICON NounCaseInfl
 <nom>:
 <acc>:ta
@@ -116,13 +130,14 @@ LEXICON NounCaseInfl
 <comp>:naw
 <int>:pura
 <ins>:wan
-
+Qamta
 LEXICON NounDenote
 <n>:
 
 LEXICON NounPlural
 <sg>:
 <pl>:kuna
+
 
 LEXICON NounPoss
 <px1sg>:{N}{i}{i}
@@ -231,6 +246,8 @@ wapul:wapul
 yaku:yaku
 ka:ka
 
+
+
 LEXICON Adverbs
 alleqa:alleqa
 allaapa:allaapa
@@ -284,6 +301,7 @@ puri:puri
 ashi:ashi
 musya:musya
 rura:rura
+ka:ka
 
 LEXICON Conjunctions
 y:y
