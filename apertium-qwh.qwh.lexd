@@ -125,10 +125,10 @@ LEXICON NounPlural
 <pl>:kuna
 
 LEXICON NounPoss
-<px1sg>:{n}{V}{V}
-<px2sg>:niki yki ki
-<px3sg>:nin
-<px1pl>:nintsik
+<px1sg>:{N}{i}{i}
+<px2sg>:{N}{i}ki
+<px3sg>:n{i}{n}
+<px1pl>:{n}{i}ntsik
 
 LEXICON VerbDenote
 <v>:
