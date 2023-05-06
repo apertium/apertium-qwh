@@ -84,11 +84,12 @@ NounRoot NounDenote: NounPoss? NounPlural NounCaseInfl
 
 NounRoot NounDenote: NounPoss? NounPlural NounCaseInfl NounRef?
 
-VerbStem VerbDenote: VerbPlural VerbTenseReg VerbInflPer VerbAspectEvidential? VerbModeMarker?
+VerbStem VerbDenote: VerbAgent? VerbPlural VerbTenseReg VerbInflPer VerbAspectEvidential? VerbModeMarker?
 
 VerbStem VerbDenote: VerbPlural VerbTenseReg :VerbTransReg VerbInflPer VerbTransReg:
 
 VerbStem VerbDenote: VerbPlural VerbTenseReg VerbInflPer VerbTransIrreg
+
 
 VerbStem VerbDenote: VerbPlural VerbTenseFut VerbInflFut
 
@@ -142,7 +143,7 @@ LEXICON NounPlural
 LEXICON NounPoss
 <px1sg>:{N}{i}{i}
 <px2sg>:{N}{i}ki
-<px3sg>:n{i}{n}
+<px3sg>:{n}{i}n
 <px1pl>:{n}{i}ntsik
 
 LEXICON VerbDenote
@@ -200,6 +201,9 @@ LEXICON VerbAspectEvidential
 
 LEXICON VerbModeMarker
 <indirect_evid>:naq
+
+LEXICON VerbAgent
+<agent>:q
 
 ###############################################################################
 ###                          L E X I C O N                                  ###

@@ -3,7 +3,7 @@ Alphabet
  a b c d e ä f g h i j k l m n ň o ö p r s t u ü w y x z
 %{A%}:a %>:0
 %{n%}:n %{n%}:0
-%{N%}:n %{N%}:0 %{N%}:i %{N%}:y 
+! %{N%}:n %{N%}:0 %{N%}:i %{N%}:y
 %{I%}:i %{I%}:y %{I%}:0
 %{V%}:u %{V%}:i %{V%}:o %{V%}:a %{V%}:0
 %{i%}:i %{i%}:0
@@ -15,42 +15,42 @@ Alphabet
 
 Sets
 
-Vowel = A E Ä I O Ö U Ü Y
-        a e ä i o ö u ü y  ;
+Vowel = A E Ä I O Ö U Ü 
+        a e ä i o ö u ü   ;
 
 Consonant =   B C D F G H J K L M N Ň P R S T W Y X Z
               b c d f g h j k l m n ň p r s t w y x z  ;
 
 Rules
 
-! "Remove i with vowel-ending stem"
-! i:0 <=> Vowel %>: {n}: _ ;
+ "Remove i with vowel-ending stem"
+  i:0 <=> Vowel %>: {n}: _ ;
 
 ! properly format : {i}:0 <=> :Vow%>: {N}: ({i}) _ ;
 
 ! call something i2
 
 
+! "first person possessed form"
+! %{N%}:Vy <=> :Vx %>: _ ;
+!      where Vx in Vowel
+!            Vy in Vowel
+!      matched;
 
-
-
-
-
-"first person possessed form"
-%{N%}:Vy <=> :Vx %>: _ ;
-            where
-              Vx in Vowel
-              Vy in Vowel
-              matched;
-"jwash more input"
+"make [i] match the behavior of [n]"
 %{i%}:0 <=> :Vowel %>: %{n%}: _ ;
 
-! "jwash more more input"
+! "keep n after long vowel"
 ! %{N%}:n <=> :Consonant %>: _ ;
 !            :Vowel :Vowel %>: _ ;
 
-"extra jwash content"
-%{i%}:0 <=> \:Vowel :Vowel %>: %{N%} (%{i%}:) _ ;
+"delete [n] after short vowel"
+ %{n%}:0 <=> :Vowel %>: _ ;
+
+
+
+! "delete [i]"
+! %{i%}:0 <=> \:Vowel :Vowel %>: %{N%} (%{i%}:) _ ;
 
 "Lengthen [A] before consonant"
 %{A%}:a <=> _ :Consonant ;
