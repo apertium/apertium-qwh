@@ -254,8 +254,11 @@ awkis:awkis
 puka:puka
 wapul:wapul
 yaku:yaku
-ka:ka
 wamra:wamra
+nuna:nima
+weqi:weqi
+punku:punku
+
 
 
 
@@ -281,6 +284,7 @@ tsee:tsee
 
 LEXICON Adjective
 lindu:lindu
+piñashqa:piñashqa
 
 LEXICON VerbStem
 wiya:wiya
@@ -289,7 +293,6 @@ wanu:wanu
 kama:kama
 rika:rika
 chura:chura
-ka:ka
 wayu:wayu
 ushari:ushari
 ni:ni
@@ -313,6 +316,9 @@ ashi:ashi
 musya:musya
 rura:rura
 ka:ka
+watee:watee
+tikra:tikra
+junta:junta
 
 LEXICON Conjunctions
 y:y
@@ -321,6 +327,12 @@ o:o
 
 PATTERN Number
 Numeral+ [<num>:]
+
+LEXICON Numbers
+
+
+
+
 
 LEXICON Numeral
 0
