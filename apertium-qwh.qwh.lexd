@@ -84,6 +84,10 @@ NounRoot NounDenote: NounPoss? NounPlural NounCaseInfl
 
 NounRoot NounDenote: NounPoss? NounPlural NounCaseInfl NounRef?
 
+#The following would be a bit nicer than having the above two lines:
+# NounRoot NounDenote NounPoss? NounPlural NounCaseInfl NounRef?
+# - JNW
+
 VerbStem VerbDenote: VerbAgent? VerbPlural VerbTenseReg VerbInflPer VerbAspectEvidential? VerbModeMarker?
 
 VerbStem VerbDenote: VerbPlural VerbTenseReg :VerbTransReg VerbInflPer VerbTransReg:
@@ -119,91 +123,93 @@ Conjunctions [<conj>:]
 
 LEXICON NounCaseInfl
 <nom>:
-<acc>:ta
-<gen>:pa
-<all>:man
-<abl>:peq  # Dir/LR
-<abl>:pita
-<loc>:chaw
-<ben>:paq
-<lim>:yaq
-<cau>:raykur
-<comp>:naw
-<int>:pura
-<ins>:wan
-Qamta
+<acc>:>ta
+<gen>:>pa
+<all>:>man
+<abl>:>peq  # Dir/LR
+<abl>:>pita
+<loc>:>chaw
+<ben>:>paq
+<lim>:>yaq
+<cau>:>raykur
+<comp>:>naw
+<int>:>pura
+<ins>:>wan
+#Qamta
+# Not sure what the above line was, but I commented it out -JNW
+
 LEXICON NounDenote
 <n>:
 
 LEXICON NounPlural
 <sg>:
-<pl>:kuna
+<pl>:>kuna
 
 
 LEXICON NounPoss
-<px1sg>:{N}{i}{i}
-<px2sg>:{N}{i}ki
-<px3sg>:{n}{i}n
-<px1pl>:{n}{i}ntsik
+<px1sg>:>{N}{i}{i}
+<px2sg>:>{N}{i}ki
+<px3sg>:>{n}{i}n
+<px1pl>:>{n}{i}ntsik
 
 LEXICON VerbDenote
 <v>:
 
 LEXICON VerbPlural
 <sg>:
-<pl>:ya
+<pl>:>ya
 
 LEXICON VerbTenseReg
 <pres>:
-<pret>:rqa
+<pret>:>rqa
 
 LEXICON VerbInflPer
-<p1>:{V}
-<p2>:{n}ki
-<p3>:n
-<p1><inc>:ntsik
-<p1><exc>:{V}
+<p1>:>{V}
+<p2>:>{n}ki
+<p3>:>n
+<p1><inc>:>ntsik
+<p1><exc>:>{V}
 
 LEXICON VerbTenseFut
 <fut>:
 
 LEXICON VerbInflFut
-<p1>:shaq
-<p2>:nki
-<p3>:nqa
-<p1><inc>:shun
-<p1><exc>:shaq
+<p1>:>shaq
+<p2>:>nki
+<p3>:>nqa
+<p1><inc>:>shun
+<p1><exc>:>shaq
 
 LEXICON VerbTransIrreg
-<1obj2>:q
+<1obj2>:>q
 
 LEXICON VerbTransReg
-<s2><o1>:maa
-<s3><o1>:maa
-<s3><o2>:shu
+<s2><o1>:>maa
+<s3><o1>:>maa
+<s3><o2>:>shu
 
 LEXICON VerbTransFut
 # fix with apertium tags & check gold
-<s1><o2>:shqa
-<s2><o1>:maa
-<s3><o1>:maa
-<s3><o2>:shu
+<s1><o2>:>shqa
+<s2><o1>:>maa
+<s3><o1>:>maa
+<s3><o2>:>shu
 
 LEXICON VerbMoodPerf
-<prc_perf>:shqa
+<prc_perf>:>shqa
 
 LEXICON NounRef
-<nounref>:sh
+<nounref>:>sh
 
 LEXICON VerbAspectEvidential
-<quot_evid>:shI
-<indirect_evid>:naq
+<quot_evid>:>shI
+<indirect_evid>:>naq
 
 LEXICON VerbModeMarker
-<indirect_evid>:naq
+<indirect_evid>:>naq
 
 LEXICON VerbAgent
-<agent>:q
+<agent>:>q
 
 ###############################################################################
 ###                          L E X I C O N                                  ###
@@ -249,6 +255,7 @@ puka:puka
 wapul:wapul
 yaku:yaku
 ka:ka
+wamra:wamra
 
 
 
