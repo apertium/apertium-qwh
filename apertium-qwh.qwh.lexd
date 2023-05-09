@@ -99,6 +99,8 @@ VerbStem VerbDenote: VerbPlural VerbTenseFut :VerbTransFut VerbInflFut VerbTrans
 
 VerbStem VerbDenote: VerbPlural VerbTenseReg :VerbMoodPerf VerbInflPer VerbMoodPerf:
 
+VerbStem VerbDenote: InfinitiveEtc
+
 Adverbs [<adv>:] NounCaseInfl?
 
 Conjunctions [<conj>:]
@@ -203,6 +205,8 @@ LEXICON VerbAspectEvidential
 <indirect_evid>:>naq
 <quot_dif_evid>:>pti
 
+LEXICON InfinitiveEtc
+<infinite>:>y
 
 LEXICON VerbModeMarker
 <indirect_evid>:>naq
