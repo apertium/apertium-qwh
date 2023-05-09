@@ -1,6 +1,6 @@
 # Morphological Transducer for Huaylas Ancash Quechua
 
-# Part of speech categories
+# Part of spaych categories
 # <n>      # Noun
 # <v>      # Verb
 # <adj>    # Adjective
@@ -101,11 +101,11 @@ VerbStem VerbDenote: VerbPlural VerbTenseFut :VerbTransFut VerbInflFut VerbTrans
 
 VerbStem VerbDenote: VerbPlural VerbTenseReg :VerbMoodPerf VerbInflPer VerbMoodPerf:
 
-Adverbs [<adv>:]
+Adverbs [<adv>:] NounCaseInfl?
 
 Conjunctions [<conj>:]
 
-[tsee<prn><dem>:tsee] NounCaseInfl
+[tsay<prn><dem>:tsay] NounCaseInfl
 
 [nuqa<prn><p1><sg>:nuqa] NounCaseInfl
 
@@ -226,10 +226,10 @@ yawar:yawar
 llumtsuy:llumtsuy
 raqaa:raqaa
 patsa:patsa
-cieelu:cieelu
+ciaylu:ciaylu
 kanan:kanan
 junaq:junaq
-tutapee:tutapee
+tutapay:tutapay
 qora:qora
 qewa:qewa
 cuentu:cuentu
@@ -248,18 +248,45 @@ qocha:qocha
 yacu:yacu
 dios:dios
 soldadu:soldadu
-weeta:weeta
+wayta:wayta
 nuna:nuna
 awkis:awkis
 puka:puka
 wapul:wapul
 yaku:yaku
 wamra:wamra
-nuna:nima
+nuna:nuna
 weqi:weqi
 punku:punku
-
-
+chiina:chiina
+orqu:orqu
+kalwa:kalwa
+alqu:allqu
+uha:uha
+usa:usa
+patsa:patsa
+hara:hara
+chakra:chakra
+allpa:allpa
+tsuktsu:tsuktsu
+punku:punku
+atoq:atoq
+hupay:hupay
+qoya:qoya
+waraa:waraa
+pacha:pacha
+muru:muru
+allqu:allqu
+haqa:haqa
+achikay:achikay
+shipash:shipash
+hanchana:hanchana
+tipina:tipina
+qepina:qepina
+wiru:wiru
+pitsana:pitsana
+raju:raju
+manash:manash
 
 
 LEXICON Adverbs
@@ -279,12 +306,35 @@ quesqa-quesqa:quesqa-quesqa
 shaypa:shaypa
 toopuypa:toopuypa
 frenti:frenti
-tsee:tsee
+tsay:tsay
+atska:atska
+atskaq:atskaq
+ampi:ampi
+imay:imay
+may:may
+pi:pi
+ima:ima
+imaq:imaq
+imaypis:imaypis
+alli:alli
+teyta:teyta
 
 
 LEXICON Adjective
 lindu:lindu
 piñashqa:piñashqa
+mas:mas
+weqru:weqru
+qapsu:qapsu
+puka:puka
+hatun:hatun
+mushoq:mushoq
+rumi:rumi
+llumpay:llumpay
+allaapa:allaapa
+aysi:aysi
+ichik:ichik
+yuraq:yuraq
 
 LEXICON VerbStem
 wiya:wiya
@@ -316,9 +366,57 @@ ashi:ashi
 musya:musya
 rura:rura
 ka:ka
-watee:watee
+watay:watay
 tikra:tikra
 junta:junta
+tsuktsu:tsuktsu
+tsaka:tsaka
+pirqa:pirqa
+shinka:shinka
+tushu:tushu
+waqra:waqra
+qapsu:qapsu
+weqru:weqri
+wayta:wayta
+tuku:tuku
+maqa:maqa
+miku:miku
+upka:upka
+isma:isma
+ishpa:ishpa
+hama:hama
+wina:wina
+wayra:wayra
+wawrya:warya
+shaa:shaa
+kuya:kuya
+macha:macha
+shika:shika
+upyay:upyay
+toqa:toqa
+qollqa:qollqa
+kaya:kaya
+tsari:tsari
+roqu:roqu
+tipi:tipi
+hancha:hancha
+qepi:qepi
+aswa:aswa
+wilu:wilu
+oqu:oqu
+taa:taa
+roqu:roqu
+pitsa:pitsa
+hita:hita
+rima:rima
+chipapaa:chipapaa
+chusllullu:chusllullu
+allitsaa:allitsaa
+unaa:unaa
+qalla:qalla
+yacha:yacha
+pwaydi:pwaydi
+qonqa:qonqa
 
 LEXICON Conjunctions
 y:y
@@ -341,7 +439,7 @@ ishqun:ishqun
 chunka:chunka
 pachak:pachak
 waranqa:waranqa
-
+ishquë:ishquë
 
 
 
