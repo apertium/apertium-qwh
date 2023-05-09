@@ -78,15 +78,13 @@
 PATTERNS
 ## Example inflection pattern:
 
-#:NounPoss? blahlbalahs NounPoss:?
 
-NounRoot NounDenote: NounPoss? NounPlural NounCaseInfl
 
-NounRoot NounDenote: NounPoss? NounPlural NounCaseInfl NounRef?
+NounRoot NounDenote: NounPlural PrTag?
 
-#The following would be a bit nicer than having the above two lines:
-# NounRoot NounDenote NounPoss? NounPlural NounCaseInfl NounRef?
-# - JNW
+
+NounRoot NounDenote NounPoss? NounPlural NounCaseInfl NounRef?
+
 
 VerbStem VerbDenote: VerbAgent? VerbPlural VerbTenseReg VerbInflPer VerbAspectEvidential? VerbModeMarker?
 
@@ -105,7 +103,7 @@ Adverbs [<adv>:] NounCaseInfl?
 
 Conjunctions [<conj>:]
 
-[tsay<prn><dem>:tsay] NounCaseInfl
+[tsë<prn><dem>:tsë] NounCaseInfl? NounRef? VerbAspectEvidential?
 
 [nuqa<prn><p1><sg>:nuqa] NounCaseInfl
 
@@ -113,7 +111,7 @@ Conjunctions [<conj>:]
 
 [pay<prn><p3><sg>:pay] NounCaseInfl
 
-[noqantsik<prn><p1><pl><inc>:noqantsik] NounCaseInfl
+[noqantsik<prn><p1><pl><inc>:noqantsik] NounCaseInfl VerbAspectEvidential?
 
 [noqakuna<prn><p1><pl><exc>:noqakuna] NounCaseInfl
 
@@ -135,8 +133,7 @@ LEXICON NounCaseInfl
 <comp>:>naw
 <int>:>pura
 <ins>:>wan
-#Qamta
-# Not sure what the above line was, but I commented it out -JNW
+
 
 LEXICON NounDenote
 <n>:
@@ -210,6 +207,16 @@ LEXICON VerbModeMarker
 
 LEXICON VerbAgent
 <agent>:>q
+
+LEXICON SubClause
+<subz>:>r
+<subz>:>q
+
+LEXICON PrTag
+<pr>:>man
+
+LEXICON Todavia
+<stll>:>raa
 
 ###############################################################################
 ###                          L E X I C O N                                  ###
@@ -417,6 +424,7 @@ qalla:qalla
 yacha:yacha
 pwaydi:pwaydi
 qonqa:qonqa
+chiki:chiki
 
 LEXICON Conjunctions
 y:y
