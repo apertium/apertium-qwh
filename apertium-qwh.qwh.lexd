@@ -92,7 +92,7 @@ VerbStem VerbDenote: VerbPlural VerbTenseReg :VerbTransReg VerbInflPer VerbTrans
 
 VerbStem VerbDenote: VerbPlural VerbTenseReg VerbInflPer VerbTransIrreg
 
-
+Negation NounRef?
 VerbStem VerbDenote: VerbPlural VerbTenseFut VerbInflFut
 
 VerbStem VerbDenote: VerbPlural VerbTenseFut :VerbTransFut VerbInflFut VerbTransFut:
@@ -201,6 +201,8 @@ LEXICON NounRef
 LEXICON VerbAspectEvidential
 <quot_evid>:>shI
 <indirect_evid>:>naq
+<quot_dif_evid>:>pti
+
 
 LEXICON VerbModeMarker
 <indirect_evid>:>naq
@@ -218,6 +220,8 @@ LEXICON PrTag
 LEXICON Todavia
 <stll>:>raa
 
+LEXICON Verbalizer
+<vbz>:>na
 ###############################################################################
 ###                          L E X I C O N                                  ###
 ###############################################################################
@@ -298,7 +302,7 @@ israel:israel
 teyta:teyta
 www:www
 org:org
-Wycliffe:Wycliffe 
+Wycliffe:Wycliffe
 
 
 LEXICON Adverbs
@@ -347,6 +351,9 @@ allaapa:allaapa
 aysi:aysi
 ichik:ichik
 yuraq:yuraq
+
+LEXICON Negation
+mana:mana
 
 LEXICON VerbStem
 wiya:wiya
@@ -453,7 +460,7 @@ chunka:chunka
 pachak:pachak
 waranqa:waranqa
 ishquë:ishquë
-
+ishkë:ishkë
 
 
 LEXICON Numeral
@@ -467,7 +474,13 @@ LEXICON Numeral
 7
 8
 9
-
+2
+5
+3
+7
+4
+6
+8
 
 
 #<o_sg1> #object 1st person singular
